@@ -1,5 +1,5 @@
 # Amazon-clone
-Hi! I'm Bhavya, A 2nd Year CSE Undergrad Student @NIT_Arunachal Pradesh. I've developed this project as the part of my learnings using **HTML** and **CSS**. this is a clone of the popular e-commerce website **Amazon**.
+Hi! I'm Shubham, A 2nd Year CSE Undergrad Student @NIT_Arunachal Pradesh. I've developed this project as the part of my learnings using **HTML** and **CSS**. this is a clone of the popular e-commerce website **Amazon**.
 
  # Features
  <br>
